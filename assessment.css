@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(135deg, #ff42ca, #fedf5f) Fixed;
+  color: #FDFFFF;
+  width: 500px;
+  margin-right: auto;
+  margin-left : auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: #cd9b04;
+    /* border-color: #ffd044; */
+    border-style: none;
+    border-radius: 3px;
+    box-shadow: 0 2px 0 #9e7702;
+    color: #fff;
+}
+.pushed {
+  margin-top: 3px;
+  box-shadow: 0 1px 0 #9e7702;
+}
+input {
+    height: 20px;
+}
